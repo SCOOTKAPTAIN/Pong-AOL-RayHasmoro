@@ -32,7 +32,7 @@ public class Timer : MonoBehaviour
         ball.speed = 90;
         ball.GetComponent<Ball>().Reset();
         Debug.Log("OVERTIME!");
-        remainingTime = 10;
+        remainingTime = 120;
         timerText.color = Color.red;
         MusicPlayer.clip = OvertimeMusic;
         MusicPlayer.Play();  

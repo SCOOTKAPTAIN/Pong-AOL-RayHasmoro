@@ -782,7 +782,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timerText: {fileID: 2023219954}
-  remainingTime: 30
+  remainingTime: 150
   IsOvertime: 0
   gamedone: 0
   Return: {fileID: 1818628}
